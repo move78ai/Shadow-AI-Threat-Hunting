@@ -1,4 +1,4 @@
-Shadow AI Threat Hunting: OpenClaw & Agentic AI Detections
+OpenClaw Threat Hunting: OpenClaw & Agentic AI Detections
 
 ![A4_portrait_aspect_2k_202602220217](https://github.com/user-attachments/assets/64bcb8e2-dba0-4131-839a-a7f4a1c7aedd)
 
